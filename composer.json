@@ -1,0 +1,15 @@
+{
+    "name": "washi/rca",
+    "autoload": {
+        "psr-4": {
+            "Washi\\Rca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "washingtonlslima",
+            "email": "washingtonlslima@gmail.com"
+        }
+    ],
+    "require": {}
+}
