@@ -1,0 +1,19 @@
+{
+  "name": "rca",
+  "version": "1.0.0",
+  "description": "Sistema desenvolvido com intuito de auxiliar aos condomínios que disfrutam de sistema de água individualizada. Ajudandoos no controle de registro e cobrança de água.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlima/RCA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlima/RCA/issues"
+  },
+  "homepage": "https://github.com/wlima/RCA#readme"
+}

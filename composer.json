@@ -2,8 +2,11 @@
     "name": "washi/rca",
     "autoload": {
         "psr-4": {
-            "Washi\\Rca\\": "src/"
+            "app\\": "app/"
         }
+    },
+    "scripts": {
+        "server": "php -S localhost:8888 -t public"
     },
     "authors": [
         {
@@ -11,5 +14,8 @@
             "email": "washingtonlslima@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "config": {
+        "process-timeout": 0
+    }
 }
